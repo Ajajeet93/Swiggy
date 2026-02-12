@@ -1,0 +1,28 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "Swiggy Clone",
+  "homepage": "https://github.com/Ajajeet93/Swiggy#readme",
+  "bugs": {
+    "url": "https://github.com/Ajajeet93/Swiggy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajajeet93/Swiggy.git"
+  },
+  "license": "ISC",
+  "author": "Ajeet Yadav",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.1.18"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
